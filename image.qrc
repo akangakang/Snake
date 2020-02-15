@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/fengmian.PNG</file>
+        <file>image/MiaoMenXiao.PNG</file>
+        <file>image/AGAIN.png</file>
+        <file>image/choose.png</file>
+        <file>image/EXIT.png</file>
+        <file>image/left.png</file>
+        <file>image/MiaoMen.PNG</file>
+        <file>image/modelbacknew.png</file>
+        <file>image/right.png</file>
+        <file>image/SanCan.jpg</file>
+        <file>image/SanCanXiao.png</file>
+        <file>image/ShiNan.png</file>
+        <file>image/ShiNanXiao.png</file>
+        <file>image/SiCan.jpg</file>
+        <file>image/SiCanXiao.png</file>
+        <file>image/START.png</file>
+        <file>image/TuoXie.png</file>
+        <file>image/TuoXieXiao.png</file>
+        <file>image/double.png</file>
+        <file>image/single.png</file>
+        <file>image/doublepurple.png</file>
+        <file>image/singlepurple.png</file>
+        <file>image/aiback.png</file>
+        <file>image/model.png</file>
+        <file>image/start.png</file>
+        <file>image/cover.png</file>
+        <file>image/exit1.png</file>
+        <file>image/AI.png</file>
+    </qresource>
+</RCC>
